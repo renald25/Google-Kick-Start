@@ -29,17 +29,6 @@ the right on the bookshelf currently. Please help the brothers to find out the
 sequence of worths after sorting such that it satisfies the above description.
 [sic]
 
-.. |0| raw:: html
-
-    <b><sub>0</sub></b>
-
-.. |1| raw:: html
-
-    <b><sub>1</sub></b>
-
-.. |N-1| raw:: html
-
-    <b><sub>N-1</sub></b>
 
 Input
 -----
@@ -59,23 +48,21 @@ left to the right.
 
 Limits
 ------
-| Time limit: 30 seconds per test set.
-| Memory limit: 1GB.
-| 1 ≤ **T** ≤ 30.
-
-Test set 1 - Visible [sic]
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-| 1 ≤ **N** ≤ 100
-| -100 ≤ **s**\ |i| ≤ 100
-
-Test set 2 - Hidden [sic]
-~~~~~~~~~~~~~~~~~~~~~~~~~
-| 1 ≤ **N** ≤ 1000
-| -1000 ≤ **s**\ |i| ≤ 1000
-
-.. |i| raw:: html
-
-    <b><sub>i</sub></b>
+>Time limit: 30 seconds per test set.
+> Memory limit: 1GB.
+>1 ≤ **T** ≤ 30.
+>
+>Test set 1 - Visible [sic]
+>
+> 1 ≤ **N** ≤ 100
+> -100 ≤ **s**\ |i| ≤ 100
+>
+>Test set 2 - Hidden [sic]
+>
+> 1 ≤ **N** ≤ 1000
+> -1000 ≤ **s**\ |i| ≤ 1000
+>
+>
 
 Sample
 ------
